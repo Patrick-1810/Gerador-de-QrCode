@@ -96,13 +96,6 @@ body {
     cursor: pointer;
 }
 
-.wrapper .form button:hover {
-    border: .1rem solid rgba(#4682B4);
-    color: #4682B4;
-    background-color: transparent;
-    font-weight: bolder;
-
-}
 
 .wrapper .qr-code {
     margin-top: 20px;
