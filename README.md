@@ -18,9 +18,6 @@ $ cd gerador QrCode
 #Install the dependencies
 $ npm install
 
-#Run the application
-$ npm run dev
-
 #The application will start in your browser
 
 #Note: You must have Git installed on your machine
